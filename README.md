@@ -1,14 +1,10 @@
 ### Hi there. I'm TRUONG 👋
 
 
-- 🔭 I’m currently working on the University Information of Technology
-- 🌱 I’m currently learning Computer Science
-- 👯 I’m looking to collaborate on competition in Kaggle
-- 🤔 I’m looking for help with my project
-- 💬 Ask me about my professional
+- 🔭 I’m currently a student at the University Information of Technology
+- 🌱 My major is Computer Science
+- 👯 I’m looking to collaborate on competition in Kaggle and looking for help with my project
 - 📫 How to reach me: truong.quoc.truong242@gmail.com
-- 😄 Pronouns: Truong
-- ⚡ Fun fact: I'm newbie
 
 
 <!--
